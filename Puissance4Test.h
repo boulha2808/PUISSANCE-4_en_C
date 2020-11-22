@@ -1,0 +1,1 @@
+void testPuissance4();
